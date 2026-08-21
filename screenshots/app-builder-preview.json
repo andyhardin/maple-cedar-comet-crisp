@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Steamworks Photo",
+      "hasCanvas": false,
+      "bodyTextLen": 2268,
+      "bodyTextHash": "9551394b58f9bc6ea10890f8f79377a7635fab364a9e68a4a640684cf4b9902b",
+      "bodyTextPrefix": "Steamworks WORK BOOK VAULT HUNTSVILLE, ALABAMA · I COME TO YOU P",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Steamworks Photo",
+      "hasCanvas": false,
+      "bodyTextLen": 2081,
+      "bodyTextHash": "ddc0286431d05411f3bfa03e902fcebca66f0ea14551ade6d12c65b3f5d79586",
+      "bodyTextPrefix": "Steamworks WORK BOOK VAULT HUNTSVILLE, ALABAMA · I COME TO YOU P",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

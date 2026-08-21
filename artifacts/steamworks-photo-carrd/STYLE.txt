@@ -1,0 +1,34 @@
+COLORS
+------
+Background        #0b0a09
+Card / surface    #141210
+Raised            #1c1916
+Text              #f3eee6
+Muted text        #9c948a
+Quiet text        #6e6860
+Accent (ivory)    #e8dcc8
+Accent on buttons #0b0a09
+Hairline          #2c2824
+
+FONTS
+-----
+Headings   Cormorant Garamond, 400 and italic
+Body       Outfit, 400 / 500
+Kicker     Outfit, 12px, uppercase, letter-spacing ~0.28em
+
+BUTTONS
+-------
+Primary    pill, fill #e8dcc8, text #0b0a09
+Secondary  pill, transparent, 1px ivory border at 8% opacity
+
+PAGE ORDER (top to bottom)
+--------------------------
+1. Sticky header: Steamworks  |  Work · Book · Vault
+2. Full-bleed hero (hero.jpg) with text at the bottom
+3. Gallery
+4. The photographer
+5. Two ways to work together
+6. How it actually goes (3 steps)
+7. The vault (Patreon, Fansly, BentBox)
+8. Elsewhere (link lists)
+9. Footer: Steamworks Photo + 18+ note

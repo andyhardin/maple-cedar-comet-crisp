@@ -1,0 +1,19 @@
+STEAMWORKS PHOTO — Carrd kit
+============================
+
+What's in this folder
+- images/     Photos, favicon, and share image
+- COPY.txt    Every line of website text, ready to paste
+- LINKS.txt   Every URL
+- STYLE.txt   Colors, fonts, and how the page is stacked
+
+How to rebuild this on Carrd
+1. New Carrd site. Theme: dark. One page.
+2. Google Fonts: Cormorant Garamond (headings) + Outfit (body).
+3. Page background: #0b0a09
+4. Follow STYLE.txt top to bottom. Paste from COPY.txt.
+5. Upload images from images/. Swap in your own photographs
+   wherever a placeholder is used — especially the gallery.
+
+The hero, robe, window, silk, tulle, edge, and steam images
+are lighting studies, not client work. Replace them with yours.

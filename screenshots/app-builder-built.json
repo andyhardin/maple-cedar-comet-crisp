@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Steamworks Photo",
+      "hasCanvas": false,
+      "bodyTextLen": 2140,
+      "bodyTextHash": "d16963108b8b17eaef33445961b33d0e09220f79c172129b389e846b7e5f4ff9",
+      "bodyTextPrefix": "Steamworks WORK HIRE CONNECT HUNTSVILLE, ALABAMA · AVAILABLE FOR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Steamworks Photo",
+      "hasCanvas": false,
+      "bodyTextLen": 2130,
+      "bodyTextHash": "e8c38046da7ebde3b6f376cbb10fd95f3943ca05955049ad6a0535bcb915785e",
+      "bodyTextPrefix": "Steamworks WORK HIRE CONNECT HUNTSVILLE, ALABAMA · AVAILABLE FOR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
